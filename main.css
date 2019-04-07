@@ -1,0 +1,257 @@
+body {
+    background-color: white !important;
+}
+.menu li{ 
+
+}
+.yeni {
+    margin: 26px;
+    padding: 11px;
+    text-align: center;
+    background:black;
+}
+.yeni p {
+    color: red;
+}
+.haqqinda{
+    display: flex;
+    float: right;
+    margin: 23px;
+    padding: 20px;
+    background: #bce4e454;
+}
+.haqqinda p{
+    
+    margin-right: 20px;
+
+}
+.menu{
+    display: flex;
+    font-family: initial;
+    font-style: italic;
+    font-size: 17px;
+    background: #7c988f
+}
+.menu li {
+    margin-right: 30px;
+}
+
+.sayt img {
+    width: 252px !important;
+    margin-top: -33px;
+    float :right;
+    
+
+}
+
+.first_page {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+}
+.koynek {
+    width: 190px;
+  margin: 31px;
+
+}
+
+.icon {
+    text-align: center;
+    padding: 2px 83px;
+}
+.first_page h3 {
+    padding: 0px 24px;
+    font-family: auto;
+    color: #3c5858bf;
+}
+.first_page2 h3 {
+    padding: 0px 24px;
+    font-family: auto;
+    color: #3c5858bf;
+}
+.first_page1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    width: 20%;
+    position: relative;
+    left: 87px;
+}
+.first_page2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    width: 20%;
+    position: relative;
+    left: 179px;
+}
+.photo{
+    display: flex;
+
+}
+.photo1{
+    display: flex;
+}
+
+.first_page1 h3 {
+    padding: 0px 24px;
+    font-family: auto;
+    color: #3c5858bf;
+}
+.first_page2 h3 {
+    padding: 0px 24px;
+    font-family: auto;
+    color: #3c5858bf;
+}
+.first_page3 h3 {
+    padding: 0px 24px;
+    font-family: auto;
+    color: #3c5858bf;
+}
+.first_page3 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    width: 20%;
+    position: relative;
+    left: 87px;
+}
+.first_page4 h3 {
+    padding: 0px 24px;
+    font-family: auto;
+    color: #3c5858bf;
+}
+.first_page4 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    width: 26%;
+    position: relative;
+    left: 209px;
+}
+.buy_koynek{
+    width: 500px
+}
+.name{    font-family: serif;
+    font-style: italic;
+    font-weight: 700;
+    color: #626362d9;
+    font-size: 24px;
+}
+.email {
+    font-family: serif;
+    font-style: italic;
+    font-weight: 700;
+    color: #626362d9;
+    font-size: 24px;
+
+}
+.credit_card {
+    
+    font-family: serif;
+    font-style: italic;
+    font-weight: 700;
+    color: #626362d9;
+    font-size: 24px;
+
+}
+.credit_photo {
+    width: 100px;
+}
+.form1{
+    display: flex;
+}
+.cred{
+    padding: 7px 25px;
+
+}
+.menu a{ 
+    color: #3e4040;
+
+}
+.menu li {
+    text-decoration: none;
+}
+.men_s {
+width: 200px;
+
+}
+.men_first {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;     
+}
+.men_first1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%; 
+    /* position: relative;
+    left: 69px;     */
+}
+.men_first p {
+    text-align: center;
+    color: #476b6b;
+    font-size: 28px;
+    font-family: inherit;
+}
+.men_first2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%; 
+    
+}
+.men_first2 p {
+    text-align: center;
+    color: #476b6b;
+    font-size: 28px;
+    font-family: inherit;
+}
+.men_first2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%; 
+    
+}
+.men_first3 p {
+    text-align: center;
+    color: #476b6b;
+    font-size: 28px;
+    font-family: inherit;
+}
+.men_first3 p {
+    text-align: center;
+    color: #476b6b;
+    font-size: 28px;
+    font-family: inherit;
+    
+}
+.men_first4 p {
+    text-align: center;
+    color: #476b6b;
+    font-size: 28px;
+    font-family: inherit;
+}
+.men_first4 p {
+    text-align: center;
+    color: #476b6b;
+    font-size: 28px;
+    font-family: inherit;
+    
+}
+.top {
+    text-align: center;
+    color: #2a4e09;
+    font-family: -webkit-pictograph;
+    font-size: -webkit-xxx-large;
+    background: #bbe4e4;
+}
+.men_icon {
+    height: 33px;
+
+}
+.soz{
+    text-align: center;
+    display: flex;
+}
+.men_sekil {
+    display: flex;
+}
+.men_sekil1 {
+    display: flex;
+}
